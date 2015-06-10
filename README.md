@@ -19,6 +19,7 @@ Feature requests and bugfixes welcomed.
 - [2015-04-01 / 买买买！社区，限时开放注册](https://github.com/bitinn/bitinn/blob/master/2015/04-01.md)
 - [2015-04-11 / 动画笔记 Rev.20150419](https://github.com/bitinn/bitinn/blob/master/2015/04-11.md)
 - [2015-04-15 / 正版动画的审查陷阱](https://github.com/bitinn/bitinn/blob/master/2015/04-15.md)
+- [2015-06-10 / Notes on using OS X 10.11 (El Capitan)'s new Chinese font: PingFang (苹方/萍方)](https://github.com/bitinn/bitinn/blob/master/2015/06-10.md)
 
 
 # License
