@@ -25,9 +25,9 @@ Feature requests and bugfixes welcomed.
 - [2015-07-25 / 动画笔记 Rev.20150725](https://github.com/bitinn/bitinn/blob/master/2015/07-25.md)
 - [2015-12-29 / 奇迹、魔法与客栈更新都是存在的](https://github.com/bitinn/bitinn/blob/master/2015/12-29.md)
 
-## 2015
+## 2016
 
-- [2015-02-13 / 冬季新番观后感](https://github.com/bitinn/bitinn/blob/master/2016/02-13.md)
+- [2016-02-13 / 冬季新番观后感](https://github.com/bitinn/bitinn/blob/master/2016/02-13.md)
 
 # License
 
