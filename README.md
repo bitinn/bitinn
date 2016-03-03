@@ -28,6 +28,7 @@ Feature requests and bugfixes welcomed.
 ## 2016
 
 - [2016-02-13 / 冬季新番观后感](https://github.com/bitinn/bitinn/blob/master/2016/02-13.md)
+- [2016-03-03 / 从作画vs脚本的争吵，到客栈眼中的辩论思维](https://github.com/bitinn/bitinn/blob/master/2016/03-03.md)
 
 # License
 
