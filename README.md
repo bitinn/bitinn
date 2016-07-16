@@ -30,9 +30,11 @@ Feature requests and bugfixes welcomed.
 - [2016-02-13 / 冬季新番观后感](https://github.com/bitinn/bitinn/blob/master/2016/02-13.md)
 - [2016-03-03 / 从作画vs脚本的争吵，到客栈眼中的辩论思维](https://github.com/bitinn/bitinn/blob/master/2016/03-03.md)
 - [2016-04-01 / 在2016年，解决动画吐槽的饥荒问题](https://github.com/bitinn/bitinn/blob/master/2016/04-01.md)
+- [2016-07-15 / 夏季新番缩影](https://github.com/bitinn/bitinn/blob/master/2016/07-15.md)
 
 # License
 
 Text: [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
 
 Image/Video: copyrighted by their respective owners, source/creator will be included as captions.
+
