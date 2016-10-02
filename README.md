@@ -2,7 +2,7 @@
 bitinn
 ======
 
-It's 2015, time to write in markdown (and use github as backup)
+It's 2015, time to write in markdown (and use github as backup).
 
 
 # Usage
@@ -10,7 +10,6 @@ It's 2015, time to write in markdown (and use github as backup)
 Visit [http://bitinn.net/](http://bitinn.net/) or [http://bitinn.github.io/bitinn](http://bitinn.github.io/bitinn)
 
 Feature requests and bugfixes welcomed.
-
 
 # ToC
 
@@ -31,6 +30,7 @@ Feature requests and bugfixes welcomed.
 - [2016-03-03 / 从作画vs脚本的争吵，到客栈眼中的辩论思维](https://github.com/bitinn/bitinn/blob/master/2016/03-03.md)
 - [2016-04-01 / 在2016年，解决动画吐槽的饥荒问题](https://github.com/bitinn/bitinn/blob/master/2016/04-01.md)
 - [2016-07-15 / 夏季新番缩影](https://github.com/bitinn/bitinn/blob/master/2016/07-15.md)
+- [2016-10-01 / 夏末点评](https://github.com/bitinn/bitinn/blob/master/2016/10-01.md)
 
 # License
 
