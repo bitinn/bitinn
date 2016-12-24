@@ -31,6 +31,8 @@ Feature requests and bugfixes welcomed.
 - [2016-04-01 / 在2016年，解决动画吐槽的饥荒问题](https://github.com/bitinn/bitinn/blob/master/2016/04-01.md)
 - [2016-07-15 / 夏季新番缩影](https://github.com/bitinn/bitinn/blob/master/2016/07-15.md)
 - [2016-10-01 / 夏末点评](https://github.com/bitinn/bitinn/blob/master/2016/10-01.md)
+- [2016-11-11 / 如何记住一个名字](https://github.com/bitinn/bitinn/blob/master/2016/11-11.md)
+- [2016-12-24 / 喧闹总要回归宁静、留下的是一丝共鸣](https://github.com/bitinn/bitinn/blob/master/2016/12-24.md)
 
 # License
 
