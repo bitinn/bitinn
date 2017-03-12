@@ -34,6 +34,10 @@ Feature requests and bugfixes welcomed.
 - [2016-11-11 / 如何记住一个名字](https://github.com/bitinn/bitinn/blob/master/2016/11-11.md)
 - [2016-12-24 / 喧闹总要回归宁静、留下的是一丝共鸣](https://github.com/bitinn/bitinn/blob/master/2016/12-24.md)
 
+## 2017
+
+- [2017-03-12 / 游戏的魔术](https://github.com/bitinn/bitinn/blob/master/2017/03-12.md)
+
 # License
 
 Text: [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
