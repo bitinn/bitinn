@@ -36,7 +36,8 @@ Feature requests and bugfixes welcomed.
 
 ## 2017
 
-- [2017-03-12 / 游戏的魔术](https://github.com/bitinn/bitinn/blob/master/2017/03-12.md)
+- [2017-03-12 / 游戏的魔术](https://github.com/bitinn/bitinn/blob/master/2017/3-12.md)
+- [2017-04-01 / 与抱枕相会（Rendezvous with Makura）](https://github.com/bitinn/bitinn/blob/master/2017/4-1.md)
 
 # License
 
