@@ -7,7 +7,7 @@ It's 2015, time to write in markdown (and use github as backup).
 
 # Usage
 
-Visit [http://bitinn.net/](http://bitinn.net/) or [http://bitinn.github.io/bitinn](http://bitinn.github.io/bitinn)
+Visit [https://bitinn.net/](https://bitinn.net/)
 
 Feature requests and bugfixes welcomed.
 
