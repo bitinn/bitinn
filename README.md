@@ -40,9 +40,14 @@ Feature requests and bugfixes welcomed.
 - [2017-04-01 / 与抱枕相会（Rendezvous with Makura）](https://github.com/bitinn/bitinn/blob/master/2017/4-1.md)
 - [2017-10-29 / 医生说我不能工作，所以我看了点动画](https://github.com/bitinn/bitinn/blob/master/2017/10-29.md)
 
+## 2018
+
+- [2018-01-15 / 三夜一日，2018冬季新番游](https://github.com/bitinn/bitinn/blob/master/2018/01-15.md)
+
+
+
 # License
 
 Text: [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
 
 Image/Video: copyrighted by their respective owners, source/creator will be included as captions.
-
