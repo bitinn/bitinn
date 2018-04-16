@@ -43,7 +43,7 @@ Feature requests and bugfixes welcomed.
 ## 2018
 
 - [2018-01-15 / 三夜一日，2018冬季新番游](https://github.com/bitinn/bitinn/blob/master/2018/01-15.md)
-
+- [2018-04-15 / 4月新番快速预览套餐](https://github.com/bitinn/bitinn/blob/master/2018/04-15.md)
 
 
 # License
