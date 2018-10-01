@@ -46,7 +46,7 @@ Feature requests and bugfixes welcomed.
 - [2018-04-15 / 4月新番快速预览套餐](https://github.com/bitinn/bitinn/blob/master/2018/04-15.md)
 - [2018-04-19 / 关于中国能不能有3A游戏的额外思考](https://github.com/bitinn/bitinn/blob/master/2018/04-19.md)
 - [2018-07-13 / 我与macOS、exFAT、妖精帝國的一场约会](https://github.com/bitinn/bitinn/blob/master/2018/07-13.md)
-
+- [2018-10-01 / 轻羽飞扬：记录羽毛球笨蛋们的故事](https://github.com/bitinn/bitinn/blob/master/2018/10-01.md)
 
 # License
 
