@@ -50,6 +50,10 @@ Feature requests and bugfixes welcomed.
 - [2018-10-30 / 关于社交网络与媒体的一点思考](https://github.com/bitinn/bitinn/blob/master/2018/10-30.md)
 - [2018-12-05 / 你是利兹还是青鸟？](https://github.com/bitinn/bitinn/blob/master/2018/12-05.md)
 
+## 2019
+
+- [2019-03-05 / 一个基于推特投票的推论](https://github.com/bitinn/bitinn/blob/master/2019/03-05.md)
+
 # License
 
 Text: [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
