@@ -53,6 +53,7 @@ Feature requests and bugfixes welcomed.
 ## 2019
 
 - [2019-03-05 / 一个基于推特投票的推论](https://github.com/bitinn/bitinn/blob/master/2019/03-05.md)
+- [2019-07-08 / 《海盗战记》，照一张千年前的镜子](https://github.com/bitinn/bitinn/blob/master/2019/07-08.md)
 
 # License
 
