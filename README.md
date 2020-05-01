@@ -56,6 +56,10 @@ Feature requests and bugfixes welcomed.
 - [2019-07-08 / 《海盗战记》，照一张千年前的镜子](https://github.com/bitinn/bitinn/blob/master/2019/07-08.md)
 - [2019-08-12 / 《天气之子》，一场对社会常态的批判](https://github.com/bitinn/bitinn/blob/master/2019/08-12.md)
 
+## 2020
+
+- [2020-05-01 / 我们该怎么重建？How do we rebuild?](https://github.com/bitinn/bitinn/blob/master/2020/05-01.md)
+
 # License
 
 Text: [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
