@@ -59,6 +59,7 @@ Feature requests and bugfixes welcomed.
 ## 2020
 
 - [2020-05-01 / 我们该怎么重建？How do we rebuild?](https://github.com/bitinn/bitinn/blob/master/2020/05-01.md)
+- [2020-12-31 / 简短的十年回顾](https://github.com/bitinn/bitinn/blob/master/2020/12-31.md)
 
 # License
 
