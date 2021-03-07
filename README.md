@@ -61,6 +61,10 @@ Feature requests and bugfixes welcomed.
 - [2020-05-01 / 我们该怎么重建？How do we rebuild?](https://github.com/bitinn/bitinn/blob/master/2020/05-01.md)
 - [2020-12-31 / 简短的十年回顾](https://github.com/bitinn/bitinn/blob/master/2020/12-31.md)
 
+## 2021
+
+- [2021-03-07 / 赛马娘 Pretty Derby：终点线的感动，起跑线的感慨](https://github.com/bitinn/bitinn/blob/master/2021/03-07.md)
+
 # License
 
 Text: [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
