@@ -65,6 +65,10 @@ Feature requests and bugfixes welcomed.
 
 - [2021-03-07 / 赛马娘 Pretty Derby：终点线的感动，起跑线的感慨](https://github.com/bitinn/bitinn/blob/master/2021/03-07.md)
 
+## 2022
+
+- [2021-05-08 / 庞波小姐让我去补影评](https://github.com/bitinn/bitinn/blob/master/2022/05-08.md)
+
 # License
 
 Text: [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
