@@ -67,7 +67,11 @@ Feature requests and bugfixes welcomed.
 
 ## 2022
 
-- [2021-05-08 / 庞波小姐让我去补影评](https://github.com/bitinn/bitinn/blob/master/2022/05-08.md)
+- [2022-05-08 / 庞波小姐让我去补影评](https://github.com/bitinn/bitinn/blob/master/2022/05-08.md)
+
+## 2023
+
+- [2023-03-25 / 铃芽之旅，土龙无首](https://github.com/bitinn/bitinn/blob/master/2023/03-25.md)
 
 # License
 
