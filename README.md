@@ -73,6 +73,10 @@ Feature requests and bugfixes welcomed.
 
 - [2023-03-25 / 铃芽之旅，土龙无首](https://github.com/bitinn/bitinn/blob/master/2023/03-25.md)
 
+## 2024
+
+- [2024-06-29 / 谈谈京都动画的工作三部曲](https://github.com/bitinn/bitinn/blob/master/2024/06-29.md)
+
 # License
 
 Text: [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
