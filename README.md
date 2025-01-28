@@ -77,6 +77,10 @@ Feature requests and bugfixes welcomed.
 
 - [2024-06-29 / 谈谈京都动画的工作三部曲](https://github.com/bitinn/bitinn/blob/master/2024/06-29.md)
 
+## 2025
+
+- [2025-01-28 / 来自19年前的少女，与穿越20年时空的客栈](https://github.com/bitinn/bitinn/blob/master/2025/01-28.md)
+
 # License
 
 Text: [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
