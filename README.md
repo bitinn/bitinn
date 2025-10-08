@@ -9,6 +9,8 @@ It's 2015, time to write in markdown (and use github as backup).
 
 Visit [https://bitinn.net/](https://bitinn.net/)
 
+Also find me on: <a href="https://beginhq.com" rel="me">BeginHQ</a>, <a href="https://marisa.club" rel="me">Marisa.club</a>, <a href="https://mastodon.gamedev.place/@bitinn" rel="me">Mastodon</a>, <a href="https://codeberg.org/bitinn" rel="me">Codeberg</a>
+
 Feature requests and bugfixes welcomed.
 
 # ToC
