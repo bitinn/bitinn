@@ -84,6 +84,10 @@ Feature requests and bugfixes welcomed.
 - [2025-01-28 / 来自19年前的少女，与穿越20年时空的客栈](https://github.com/bitinn/bitinn/blob/master/2025/01-28.md)
 - [2025-08-01 / 《罗小黑战记2》：不可抗力下，和平如履薄冰](https://github.com/bitinn/bitinn/blob/master/2025/08-01.md)
 
+## 2026
+
+- [2025-03-08 / 在加速世界里，寻找永恒浪漫](https://github.com/bitinn/bitinn/blob/master/2026/03-08.md)
+
 # License
 
 Text: [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
