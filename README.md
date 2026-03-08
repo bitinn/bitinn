@@ -86,7 +86,7 @@ Feature requests and bugfixes welcomed.
 
 ## 2026
 
-- [2025-03-08 / 在加速世界里，寻找永恒浪漫](https://github.com/bitinn/bitinn/blob/master/2026/03-08.md)
+- [2026-03-08 / 在加速世界里，寻找永恒浪漫](https://github.com/bitinn/bitinn/blob/master/2026/03-08.md)
 
 # License
 
